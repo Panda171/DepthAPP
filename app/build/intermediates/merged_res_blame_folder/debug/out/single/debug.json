@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.depth.app-merged_res-4:/drawable_ic_home.xml.flat",
+        "source": "com.depth.app-main-6:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-xxxhdpi_depth_round.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-xxxhdpi/depth_round.webp"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-hdpi_depth_round.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-hdpi/depth_round.webp"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-xhdpi_depth_round.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-xhdpi/depth_round.webp"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-hdpi_depthforeground.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-hdpi/depthforeground.webp"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/drawable_ic_add.xml.flat",
+        "source": "com.depth.app-main-6:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/drawable_ic_settings.xml.flat",
+        "source": "com.depth.app-main-6:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-xxhdpi_depth.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-xxhdpi/depth.webp"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/drawable_ic_profile.xml.flat",
+        "source": "com.depth.app-main-6:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.depth.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-xxhdpi_depthforeground.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-xxhdpi/depthforeground.webp"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/drawable_ic_notifications.xml.flat",
+        "source": "com.depth.app-main-6:/drawable/ic_notifications.xml"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-xxxhdpi_depthforeground.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-xxxhdpi/depthforeground.webp"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/drawable_depth_background.xml.flat",
+        "source": "com.depth.app-main-6:/drawable/depth_background.xml"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/drawable_ic_friends.xml.flat",
+        "source": "com.depth.app-main-6:/drawable/ic_friends.xml"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/drawable_ic_policy.xml.flat",
+        "source": "com.depth.app-main-6:/drawable/ic_policy.xml"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-mdpi_depth_round.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-mdpi/depth_round.webp"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-anydpi-v26_depth.xml.flat",
+        "source": "com.depth.app-main-6:/mipmap-anydpi-v26/depth.xml"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-xhdpi_depth.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-xhdpi/depth.webp"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-xhdpi_depthforeground.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-xhdpi/depthforeground.webp"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-anydpi-v26_depth_round.xml.flat",
+        "source": "com.depth.app-main-6:/mipmap-anydpi-v26/depth_round.xml"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/drawable_ic_privacy.xml.flat",
+        "source": "com.depth.app-main-6:/drawable/ic_privacy.xml"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/drawable_ic_bell.xml.flat",
+        "source": "com.depth.app-main-6:/drawable/ic_bell.xml"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-xxhdpi_depth_round.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-xxhdpi/depth_round.webp"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/drawable_ic_logout.xml.flat",
+        "source": "com.depth.app-main-6:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-hdpi_depth.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-hdpi/depth.webp"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-xxxhdpi_depth.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-xxxhdpi/depth.webp"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-mdpi_depth.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-mdpi/depth.webp"
+    },
+    {
+        "merged": "com.depth.app-merged_res-4:/mipmap-mdpi_depthforeground.webp.flat",
+        "source": "com.depth.app-main-6:/mipmap-mdpi/depthforeground.webp"
+    }
+]
